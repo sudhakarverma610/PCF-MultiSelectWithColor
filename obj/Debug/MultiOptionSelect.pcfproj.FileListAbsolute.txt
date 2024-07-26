@@ -1,0 +1,2 @@
+C:\Users\Sudhakar.Verma\source\repos\MPE\MultiOptionSelect\MultiOptionSelect\obj\Debug\MultiOptionSelect.pcfproj.AssemblyReference.cache
+C:\Users\Sudhakar.Verma\source\repos\MPE\MultiOptionSelect\MultiOptionSelect\obj\Debug\MultiOptionSelect.pcfproj.CoreCompileInputs.cache

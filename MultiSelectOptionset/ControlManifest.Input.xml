@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="TKMX" constructor="MultiSelectControl" version="0.0.1" display-name-key="TKMX.MultiSelectControl" description-key="TKMX.MultiSelectControl" control-type="standard" >
+    <!-- property node identifies a specific, configurable piece of data that the control expects from CDS-->
+    <property name="multiField" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="MultiSelectOptionSet" usage="bound" required="true" />
+   <resources>
+      <code path="index.ts" order="1" /> 
+      <css path="css/mutiselectstyle.css" order="1" /> 
+    </resources>
+    <feature-usage>
+      <uses-feature name="Utility" required="true" />
+      <uses-feature name="WebAPI" required="true" />
+    </feature-usage>
+  </control>
+</manifest>
